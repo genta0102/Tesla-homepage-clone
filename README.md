@@ -1,5 +1,5 @@
 # Tesla-homepage-clone
-This is test and made that to learn how to use React.
+This is test and made that to learn how to use React and does't have refactor yet.
 
 ## Getting Started with Create React App
 
